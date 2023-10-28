@@ -10,7 +10,7 @@ LoopGpt, developed by LoopUE and Dark Lord, is a versatile AI tool. It offers va
 8. **Instant Language Translation**: Quickly translates text to and from multiple languages.
 9. **And More**: Additional features can be explored by subscribing to the bot.
 
-You can access LoopGpt through their Telegram channel: [LoopGpt Telegram Channel](https://t.me/LoopGpt). They have also introduced the LoopGpt API, and you can find instructional videos in their repository.
+You can access LoopGpt through their Telegram channel: [LoopGpt Telegram Channel](https://t.me/LoopGpt). They have also introduced the LoopGpt API, and you can find instructional videos in their Telegram Channel.
 
 For more details and specific functionalities, you can interact with the bot by visiting the username: [LoopGpt_bot](https://t.me/LoopGpt_bot).
 
