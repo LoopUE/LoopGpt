@@ -16,7 +16,7 @@ For more details and specific functionalities, you can interact with the bot by 
 
 Here are some additional resources for specific functionalities:
 
-- Telnet cracker example: [Telnet Cracker Image](https://github.com/LoopUE/LoopGpt/blob/main/IMG_20231028_074940_491.jpg)
+- Telnet cracker example: [Telnet Cracker Image](https://t.me/LoopGpt/197)
 - LoopGpt API demonstration: [LoopGpt API Video](https://t.me/LoopGpt/183)
 - FTP password cracker: [FTP Password Cracker](https://t.me/LoopGpt/154)
 - SSH password cracker: [SSH Password Cracker](https://t.me/LoopGpt/151)
