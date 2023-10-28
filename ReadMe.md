@@ -21,3 +21,8 @@ here is the telegram channel link : https://t.me/LoopGpt
 recently they announced LoopGpt Api i will leave some videos in the repository 
 
 bot username: https://t.me/LoopGpt_bot
+
+here is a picture of a telnet cracker made by the bot
+
+https://github.com/LoopUE/LoopGpt/blob/main/IMG_20231028_074940_491.jpg
+
