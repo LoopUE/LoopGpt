@@ -1,5 +1,6 @@
 LoopGpt is an ai tool made by LoopUE and Dark Lord
 It is an ai tool that can create malicious scripts , virus , ransomware etc ....
+
 it works as a telegram bot
 
 This bot can do anythinge you want. Example:
@@ -13,4 +14,4 @@ here is the telegram channel link : https://t.me/LoopGpt
 
 recently they announced LoopGpt Api i will leave some videos in the repository 
 
-bot username: @LoopGpt_bot
+bot username: https://t.me/LoopGpt_bot
