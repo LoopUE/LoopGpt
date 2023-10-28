@@ -22,7 +22,22 @@ recently they announced LoopGpt Api i will leave some videos in the repository
 
 bot username: https://t.me/LoopGpt_bot
 
-here is a picture of a telnet cracker made by the bot
+here is a picture of a telnet cracker made by the bot :
 
 https://github.com/LoopUE/LoopGpt/blob/main/IMG_20231028_074940_491.jpg
 
+here is the video showing the LoopGpt Api:
+https://t.me/LoopGpt/183
+
+
+ftp password cracker:
+https://t.me/LoopGpt/154
+
+ssh password cracker:
+https://t.me/LoopGpt/151
+
+LoopGpt port scanner :
+https://t.me/LoopGpt/113
+
+the LoopGpt bot show case :
+https://t.me/LoopGpt/74
