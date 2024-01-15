@@ -1,4 +1,4 @@
-LoopGpt, developed by LoopUE and Dark Lord, is a versatile AI tool. It offers various capabilities, including:
+LoopGpt, developed by LoopUE , Dark Lord and ElHAKEM 7E , is a versatile AI tool. It offers various capabilities, including:
 
 1. **Malware Script Creation**: It can assist in generating scripts for various purposes.
 2. **Virus Development**: Provides support for virus creation.
