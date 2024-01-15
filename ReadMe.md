@@ -11,6 +11,6 @@ LoopGpt, developed by LoopUE , Dark Lord and ElHAKEM 7E , is a versatile AI tool
 9. **Free Requests**: Now The loopGpt telegram bot offers 5 requests per day for every telegram account for free and 50 requests per day for premium users
 10. **And More**: Additional features can be explored by subscribing to the bot.
 
-You can access LoopGpt through their Telegram channel: [LoopGpt Telegram Channel](https://t.me/LoopGpt). They have also introduced the LoopGpt API, and you can find instructional videos in their Telegram Channel.
+You can access LoopGpt through Our Telegram channel: [LoopGpt Telegram Channel](https://t.me/LoopGpt). They have also introduced the LoopGpt API , you can get one yourself too just contact anyone from the support team .
 
 For more details and specific functionalities, you can interact with the bot by visiting the username: [LoopGpt_bot](https://t.me/J9NBOT).
