@@ -8,7 +8,7 @@ LoopGpt, developed by LoopUE and Dark Lord , is a versatile AI tool. It offers v
 6. **Internet Searching**: Offers internet search capabilities Using the searchGpt model.
 7.  **Variations** : it contains a variety of ai models from WormGpt to EvilGpt and Even black box models
 8. **ChatGpt Mode**: Functions as a ChatGpt mode for interactive conversations.
-9. **Free Requests**: Now The loopGpt telegram bot offers 5 requests per day for every telegram account for free and 50 requests per day for premium users
+9. **Free Requests**: Now The loopGpt telegram bot offers 5 requests per day for every telegram account for free and 100 requests per day for premium users
 10. **And More**: Additional features can be explored by subscribing to the bot.
 
 You can access LoopGpt through Our Telegram channel: [LoopGpt Telegram Channel](https://t.me/LoopGpt). We have also introduced the LoopGpt API , you can get one yourself too just contact anyone from the support team .
